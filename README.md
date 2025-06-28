@@ -20,7 +20,7 @@ This is a guide on how to install the ticketing system known as osTicket.<br />
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Create a Virtual Machine in Azure 
 - Item 2
 - Item 3
 - Item 4
