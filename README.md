@@ -3,7 +3,7 @@
 </p>
 
 <h1> Installation of osTicket</h1>
-This is a guide on how to install osTicket.<br />
+This is a guide on how to install osTicketing system.<br />
 
 
 
